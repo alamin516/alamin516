@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://www.dev-alamin.web.app](https://www.dev-alamin.web.app)
+- 👨‍💻 All of my projects are available at [https://dev-alamin.web.app](https://dev-alamin.web.app)
 
 - 💬 Ask me about **React, WordPress**
 
